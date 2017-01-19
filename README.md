@@ -47,7 +47,3 @@ Y-ROBOTICS03:
 	Python 2.7.13
 		numpy
 		pynetworktables
-		
-NI Instruments:
-
-	2017 S/N: M82X14670
