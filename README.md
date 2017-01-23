@@ -15,6 +15,8 @@ S-ROBOTICS02:
 	Python 2.7.13
 		numpy
 		pynetworktables
+	Putty
+	WinSCP
 
 
 S-ROBOTICS03:
