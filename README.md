@@ -2,7 +2,8 @@
 
 S-ROBOTICS01:
 
-	navX-MXP v3.0.263
+	navX-MXP v3.0.314 (2017 Suite)
+	CTRE Toolsuite v4.4.1.9
 
 
 S-ROBOTICS02:
