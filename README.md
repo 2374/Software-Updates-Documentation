@@ -22,7 +22,6 @@ S-ROBOTICS02:
 
 S-ROBOTICS03:
 	
-	NI Update 2017
 	navX-MXP v3.0.263
 
 
@@ -39,7 +38,8 @@ Y-ROBOTICS01:
   
 
 Y-ROBOTICS02:
-
+	
+	NI Update 2017
 	navX-MXP v3.0.263
 
 
