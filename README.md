@@ -43,6 +43,7 @@ Y-ROBOTICS02:
 	NI Update 2017
 	navX-MXP v3.0.263
 	CTRE Toolsuite v4.4.1.9
+	OpenCV 3.2.0
 
 
 Y-ROBOTICS03:
