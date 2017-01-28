@@ -39,8 +39,10 @@ Y-ROBOTICS01:
 
 Y-ROBOTICS02:
 	
+	Eclipse - Robot Java Development 2017
 	NI Update 2017
 	navX-MXP v3.0.263
+	CTRE Toolsuite v4.4.1.9
 
 
 Y-ROBOTICS03:
