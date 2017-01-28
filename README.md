@@ -2,6 +2,7 @@
 
 S-ROBOTICS01:
 	
+	Eclipse - Robot Java Development 2017
 	NI Update 2017
 	navX-MXP v3.0.314 (2017 Suite)
 	CTRE Toolsuite v4.4.1.9
