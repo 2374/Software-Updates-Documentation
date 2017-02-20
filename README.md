@@ -11,7 +11,8 @@ S-ROBOTICS01:
 S-ROBOTICS02:
 	
 	Eclipse - Robot Java Development 2017
-	NI Update 2017
+	NI Update 2017 v17.0.1
+	FRC Radio Configuration v17.3
 	navX-MXP v3.0.314 (2017 Suite)
 	CTRE Toolsuite v4.4.1.9
 	OpenCV 3.2.0
@@ -25,7 +26,8 @@ S-ROBOTICS02:
 S-ROBOTICS03:
 	
 	Eclipse - Robot Java Development 2017
-	NI Update 2017
+	NI Update 2017 v17.0.1
+	FRC Radio Configuration v17.3
 	navX-MXP v3.0.263
 	CTRE Toolsuite v4.4.1.9
 	OpenCV 3.2.0
@@ -58,7 +60,8 @@ Y-ROBOTICS02:
 Y-ROBOTICS03:
 
 	Eclipse - Robot Java Development 2017
-	NI Update 2017
+	NI Update 2017 v17.0.1
+	FRC Radio Configuration v17.3
 	navX-MXP v3.0.314 (2017 suite)
 	CTRE Toolsuite v4.4.1.9
 	OpenCV 3.2.0
